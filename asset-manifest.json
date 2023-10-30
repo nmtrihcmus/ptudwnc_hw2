@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ptudwnc_hw2/static/css/main.f69fce45.css",
+    "main.js": "/ptudwnc_hw2/static/js/main.05e4d506.js",
+    "static/js/787.28cb0dcd.chunk.js": "/ptudwnc_hw2/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/ptudwnc_hw2/index.html",
+    "main.f69fce45.css.map": "/ptudwnc_hw2/static/css/main.f69fce45.css.map",
+    "main.05e4d506.js.map": "/ptudwnc_hw2/static/js/main.05e4d506.js.map",
+    "787.28cb0dcd.chunk.js.map": "/ptudwnc_hw2/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f69fce45.css",
+    "static/js/main.05e4d506.js"
+  ]
+}
